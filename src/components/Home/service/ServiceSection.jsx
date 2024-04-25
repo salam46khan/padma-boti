@@ -3,7 +3,7 @@ import { MdBookmarks, MdDirectionsBoatFilled } from "react-icons/md";
 
 const ServiceSection = () => {
     return (
-        <div className="py-10 md:mt-5 p-3">
+        <div className="py-10  md:my-5 p-3">
             <div className="container mx-auto">
                 <div className="w-full max-w-3xl mx-auto text-center">
                     <p className="text-xl text-[#FF7300] font-semibold">Our Service</p>
